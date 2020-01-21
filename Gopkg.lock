@@ -497,7 +497,6 @@
     "golang.org/x/crypto/ripemd160",
     "golang.org/x/crypto/sha3",
     "golang.org/x/crypto/ssh",
-    "golang.org/x/crypto/ssh/terminal",
     "golang.org/x/sys/unix",
     "golang.org/x/sys/windows",
     "golang.org/x/text/transform",
