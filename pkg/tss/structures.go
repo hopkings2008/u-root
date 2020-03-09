@@ -20,7 +20,6 @@ func (id TCGVendorID) String() string {
 		return fmt.Sprintf("unknown TPM vendor (%d)", id)
 	}
 	return s
-
 }
 
 var vendors = map[TCGVendorID]string{
